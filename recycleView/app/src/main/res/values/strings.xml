@@ -1,3 +1,19 @@
 <resources>
     <string name="app_name">My Application</string>
+    <string name="text1">Text 1</string>
+    <string name="text2">Text 2</string>
+    <string name="text3">Text 3</string>
+    <string name="text4">Text 4</string>
+    <string name="text5">Text 5</string>
+    <string name="text6">Text 6</string>
+    <string name="text7">Text 7</string>
+    <string name="text8">Text 8</string>
+    <string name="text9">Text 9</string>
+    <string name="text10">Text 10</string>
+    <string name="text11">Text 11</string>
+    <string name="text12">Text 12</string>
+    <string name="text13">Text 13</string>
+    <string name="text14">Text 14</string>
+    <string name="text15">Text 15</string>
+
 </resources>
